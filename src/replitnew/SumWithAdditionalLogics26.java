@@ -2,6 +2,12 @@ package replitnew;
 
 import java.util.Scanner;
 
+/*= * = * = * = * = * = * = (Sum with Additional Logics) = * = * = * = * = * = * = = * = * =
+I. Write a method which accepts three parameters of type int and return sum of the numbers.
+  1. Do not sum the variable values if it is equal 10.
+II. Call the method and use scanner to get parameter value from user.
+*/
+
 public class SumWithAdditionalLogics26 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

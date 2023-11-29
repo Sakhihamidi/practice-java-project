@@ -4,6 +4,18 @@ import java.util.ArrayList;
 
 public class ArrayListCompare2ArrayList9116 {
 	 public static void main(String[] args) {
+		 
+			/*
+			 * Steps 
+			 * add colors in first ArrayList [Red, Green, Black, White, Pink] 
+			 * add colors in second ArrayList [Red, Green, Black, Pink] 
+			 * used loop for compare first ArrayList with second ArrayList. in ArrayList print "Yes" for any exist
+			 * color in both ArrayList and print "No" for any color that exist only in one
+			 * ArrayList 
+			 * Expected Output [Yes, Yes, Yes, No, Yes]
+			 */
+				 
+				 
 	        ArrayList<String> colorsList1 = new ArrayList<String>();
 	        colorsList1.add("Red");
 	        colorsList1.add("Green");
