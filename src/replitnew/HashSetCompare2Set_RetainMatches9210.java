@@ -4,6 +4,18 @@ import java.util.HashSet;
 
 public class HashSetCompare2Set_RetainMatches9210 {
 	public static void main(String[] args) {
+		
+//		Steps
+//		dd colors in HashSet [Red, Green, Black, White]
+//		add colors in another HashSet [Red, Pink, Black, Orange]
+//		Compare this 2 HashSet and print matched elements
+//		Expected Output
+//		Frist HashSet content: [Red, White, Black, Green]
+//		Second HashSet content: [Red, Pink, Black, Orange]
+//		HashSet content:
+//		[Red, Black]
+//				
+				
 	
     HashSet<String> colorSet1 = new HashSet<>();
       colorSet1.add("Red");

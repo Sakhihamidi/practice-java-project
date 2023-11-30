@@ -5,6 +5,20 @@ import java.util.TreeSet;
 public class TreeSetGreaterThan9220 {
 	public static void main(String[] args) {
 		
+//		Steps
+//		Add numbers in TreeSet 10, 22, 25, 36, 16, 70, 82, 89, 14
+//		Print TreeSet
+//		print number Strictly greater than 76
+//		print number Strictly greater than 31
+//		Note: Add data type to your collection objects and import required class for execute your code.
+//
+//		Expected Output
+//		TreeSet: [10, 14, 16, 22, 25, 36, 70, 82, 89]
+//		Strictly greater than 76 : 82
+//		Strictly greater than 31 : 36
+//		
+		
+		
 	TreeSet<Integer> numbers = new TreeSet<>();
 
 	numbers.add(10);
